@@ -1,4 +1,4 @@
-# 📊 Nike Sales Analysis Dashboard
+Interactive Power BI dashboard featuring sales performance analysis, KPI tracking, product-wise insights, revenue trends, and data visualization using DAX and Excel.
 
 ## 📌 Project Overview
 This project presents an interactive sales analysis dashboard developed using Microsoft Power BI. It analyzes Nike sales data to evaluate performance, track key metrics, and generate meaningful business insights.
