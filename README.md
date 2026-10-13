@@ -5,7 +5,7 @@ This project presents an interactive sales analysis dashboard developed using Mi
 
 ## 🖼️ Dashboard Preview
 
-![Nike Sales Dashboard](Screenshot.png)
+![Nike Sales Dashboard]https://github.com/Madhav1506/Nike-Sales-Analysis-PowerBI/blob/main/Dashboard.png
 
 ## ✨ Key Features
 - 📈 **Sales Performance Analysis** – Analyze overall sales performance.
